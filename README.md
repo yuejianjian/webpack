@@ -74,7 +74,7 @@
 
 
 ### 我的学习笔记教程[入门篇]
-- [webpack基本使用配置[入门篇]](https://github.com/lengziyu/learn-webpack/issues/1)
+- [webpack基本使用配置[入门篇]](https://github.com/yuejianjian/webpack)
 - [webpack Loader的使用教程及常用的loader[入门篇]](https://github.com/lengziyu/learn-webpack/issues/2)
 
 
